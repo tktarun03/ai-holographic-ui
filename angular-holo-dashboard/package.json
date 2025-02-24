@@ -1,0 +1,11 @@
+{
+    "name": "angular-holo-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-holographic-ui": "file:../stencil-holographic-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "stencil-holographic-ui",
+    "version": "1.0.0",
+    "dependencies": {
+        "@stencil/core": "^2.15.0"
+    },
+    "scripts": {
+        "build": "stencil build",
+        "start": "stencil build --dev --watch"
+    }
+}

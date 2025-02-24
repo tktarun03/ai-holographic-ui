@@ -1,0 +1,19 @@
+{
+    "projects": {
+        "angular-holo-dashboard": {
+            "architect": {
+                "build": {
+                    "options": {
+                        "assets": [
+                            "src/assets"
+                        ],
+                        "styles": [
+                            "src/styles.css"
+                        ],
+                        "scripts": []
+                    }
+                }
+            }
+        }
+    }
+}
